@@ -1,0 +1,33 @@
+Node js
+Postman
+VS Code editor (ES7 React/Redux/GraphQL/React Native Snippets)
+React Dev Tools chrome extension
+Redux Dev Tools Chrome extension
+Git Bash
+Mongo DB
+MongoD compass (For UI)
+
+List of packages:
+
+Express
+express validator         //express validator validates the data to make sure that POST requests are made against existing fields
+bcryptjs (used for password encryption)
+config     //for global variables
+gravatar
+jsonwebtoken
+mongoose
+request     //small module to make http requests for gihub repositories
+
+
+(npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request)
+
+List of Dev dependencies
+
+Nodemon     //to monitor the changes so we dont have to refresh every time
+concurrently      //to run react and express servers at the same time with one command
+
+(npm i -D nodemon concurrently)
+
+ 
+
+
