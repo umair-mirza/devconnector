@@ -1,3 +1,6 @@
 "mongoURI": "mongodb://127.0.0.1:27017/test"
 
 in default.json   in config folder
+
+
+"mongoURI": "mongodb+srv://admin:basillisk@devconnector-cvf3z.mongodb.net/test?retryWrites=true&w=majority"
