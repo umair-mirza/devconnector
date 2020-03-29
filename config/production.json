@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:basillisk@devconnector-cvf3z.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "f66c20ec801f661de1c7",
+    "githubSecret": "7dade959650c0675a867473f7a240a01bbe5fc24"
+}
