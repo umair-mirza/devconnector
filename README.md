@@ -53,7 +53,7 @@ For Frontend (React / Redux)
 
 * All thanks to Brad Traversy for being an excellent mentor
 
-##Demo
+## Demo
 
 The project has been deployed on Heroku. You can view and interact with it here: https://mighty-mesa-86452.herokuapp.com/
 
