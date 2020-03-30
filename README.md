@@ -1,4 +1,4 @@
-# devconnector
+# Devconnector
 DevConnector is a Social Network for Developers. Developers can create their accounts, add their profiles including their Social media Usernames and Interact with each other.
 Users can also add Experience and Education credentials to their profiles. 
 As a User you can create posts, add comments to other's posts and view other Developer's profiles.
